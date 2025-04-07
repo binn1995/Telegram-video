@@ -1,5 +1,1 @@
-python-telegram-bot==20.8
-telegram
-yt-dlp
-flask
-requests
+pip install python-telegram-bot pytube instaloader TikTokApi python-dotenv beautifulsoup4 requests
